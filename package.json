@@ -1,9 +1,10 @@
 {
-  "name": "reactFE",
+  "name": "REACTFE§",
   "version": "1.0.0",
   "description": "ReactFE",
   "main": "index.js",
   "scripts": {
+    "compile": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
